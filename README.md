@@ -1,5 +1,5 @@
 # DEFAULT
 
-Crush texture algorithm.
+Walk generative algorithm.
 
-http://whitevinyldesign.com/experiments/crush/
+http://whitevinyldesign.com/experiments/walk/
